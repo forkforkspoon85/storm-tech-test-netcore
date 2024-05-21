@@ -29,4 +29,9 @@
     </None>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\js\Views\" />
+    <Folder Include="wwwroot\js\Views\TodoList\" />
+  </ItemGroup>
+
 </Project>
